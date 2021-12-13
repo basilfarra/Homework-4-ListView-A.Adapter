@@ -1,5 +1,5 @@
 # ListView - Adapter
-Android  - adding values using a button in ListView
+# Android  - Adding values using a button in ListView
 
 * Using ArrayAdapter , ArrayList<String>
 * User Add names in the EditText
